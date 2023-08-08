@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ 
+  <test name="TempleAdminTest">
+  
+     <classes>
+     
+     <class name="com.vedagram.test.TempleAdminTest">
+     
+     <methods>
+     
+     <include name="browserLaunch"></include>
+     <include name="testLoginTempleAdmin"></include>
+     <include name="testTempleManagement"></include>
+     <include name="testFacilities"></include> 
+     <include name="testOfferingsAndSignificanceAndFestivals"></include> 
+     <include name="testPoojaAndLists"></include>   
+     <include name="testScheduleTimingsAndGallery"></include>  
+     
+     </methods>
+     
+     
+     
+     
+     
+     
+     </class>
+     
+     
+     
+     
+     
+     
+     
+     </classes>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

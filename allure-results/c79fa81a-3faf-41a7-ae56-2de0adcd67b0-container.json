@@ -1,0 +1,1 @@
+{"uuid":"c79fa81a-3faf-41a7-ae56-2de0adcd67b0","name":"TempleAdminTest","children":["de27ce36-22ca-435d-af96-f9203395cf8f"],"befores":[{"name":"browserLaunch","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1689578108449,"stop":1689578113319}],"afters":[],"start":1689578108408,"stop":1689578115069}

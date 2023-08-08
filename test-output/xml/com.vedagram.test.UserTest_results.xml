@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UserTest"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.227">
+    <properties></properties>
+
+
+
+            <testcase
+                name="userLogin"
+                time="0.005"
+                classname="com.vedagram.test.UserTest">
+            </testcase>
+            <testcase
+                name="testPoojaOfferings"
+                time="0.031"
+                classname="com.vedagram.test.UserTest">
+            </testcase>
+            <testcase
+                name="browserLaunch"
+                time="3.191"
+                classname="com.vedagram.test.UserTest">
+            </testcase>
+</testsuite>

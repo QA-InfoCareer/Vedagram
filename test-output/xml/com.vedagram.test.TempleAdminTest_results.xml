@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="16.352">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testLoginTempleAdmin"
+                time="2.887"
+                classname="com.vedagram.test.TempleAdminTest">
+            </testcase>
+            <testcase
+                name="testOrderManagement"
+                time="13.465"
+                classname="com.vedagram.test.TempleAdminTest">
+            </testcase>
+</testsuite>
